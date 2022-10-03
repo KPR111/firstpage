@@ -1,22 +1,80 @@
-Setting up a React Environment
-If you have npx and Node.js installed, you can create a React application by using create-react-app.
+# **Start a Reactjs App**:-
 
-If you've previously installed create-react-app globally, it is recommended that you uninstall the package to ensure npx always uses the latest version of create-react-app.
 
-To uninstall, run this command: npm uninstall -g create-react-app.
+# 1.Setting up a React Enviornment 
 
-Run this command to create a React application named my-react-app:
+If you have npx and Node.js installed
 
-npx create-react-app my-react-app
-The create-react-app will set up everything you need to run a React application.
 
-Run the React Application
+## Create a React application:
+ by using
+
+```bash
+  create-react-app
+```
+    
+
+## Note:
+
+
+
+If you've previously installed
+
+```bash
+  create-react-app
+```
+ globally, it is recommended that you uninstall the package to ensure npx always uses the latest version of 
+ 
+ 
+```bash
+  create-react-app
+```
+
+To uninstall, run this command:
+
+```bash
+  npm uninstall -g create-react-app
+```
+
+
+Run this command to create a React application named
+
+```bash
+  my-react-app
+```
+
+
+
+The **create-react-app** will set up everything you need to run a React application.
+
+
+## 2.Run the React Application
+
 Now you are ready to run your first real React application!
 
-Run this command to move to the my-react-app directory:
+Run this command to move to the **my-react-app** directory:
 
-cd my-react-app
-Run this command to run the React application my-react-app:
+```bash
+  cd my-react-app
+```
 
-npm start
-A new browser window will pop up with your newly created React App! If not, open your browser and type localhost:3000 in the address bar.
+Run this command to run the React application **my-react-app**:
+
+```bash
+  npm start
+```
+
+## 3.Result
+
+A new browser window will pop up with your newly created React App! If not, open your browser and type 
+
+
+    localhost:3000
+
+
+ in the address bar.
+
+
+
+##### The Result:
+![alt text](https://www.w3schools.com/react/screenshot_myfirstreact.png)
